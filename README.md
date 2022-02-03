@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mifhu
 - 👀 I’m interested in dotnetcoe
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Serenity
 - 📫 How to reach me surat.huda@gmail.com
 
